@@ -19,8 +19,7 @@ def initialize(name:, birthday:, hair_color:, eye_color:, height:, weight:, hand
   @pant_width = pant_width
 end
 
- def initialize(name:)
-    
-  end
+ 
+spencer_attributes[:name]
 
 end
