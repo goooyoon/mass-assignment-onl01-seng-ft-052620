@@ -19,7 +19,7 @@ def initialize(name:, birthday:, hair_color:, eye_color:, height:, weight:, hand
   @pant_width = pant_width
 end
 
- def initialize(name:, hair_color:, height:, weight:, handed:)
+ def initialize(name:)
     
   end
 
